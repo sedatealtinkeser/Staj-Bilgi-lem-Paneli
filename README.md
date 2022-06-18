@@ -1,4 +1,4 @@
-# Staj-Bilgi-lem-Paneli
+# Staj-Bilgi-lslem-Paneli
 
 TR: Okul projelerimden biri olan "Staj Bilgi İşlem Paneli" isimli projeyi sergilemek istiyorum. Proje içeriği "login-page" haricinde tamamen tarafımca yazılmış (front-end ve back-end) ve kodlanmıştır. Aynı zamanda bu proje MySQL bağlantısı ile tablolara bağlıdır. Canlı örneğini "https://www.sedatefealtinkeser.com.tr/projeOdevi" adresinden görebilir ve deneyebilirsiniz. (Giriş Bilgileri: Sedat - 1234)
 
